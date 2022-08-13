@@ -1,4 +1,4 @@
-# vsProgressbarr
+# vsProgressbar
 
 > Um simples script de progressbar :) 
 
