@@ -1,6 +1,6 @@
 # vsProgressbar
 
-> Um simples script de progressbar :) 
+> Script de progressbar abaixo da tela. 
 
 > Framework: vRPex
 
