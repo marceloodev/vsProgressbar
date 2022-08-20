@@ -4,4 +4,4 @@
 
 > Framework: vRPex
 
-> Developed by: Vieira's Store | EuNoah#8056
+> Developed by: Vieira's Store
