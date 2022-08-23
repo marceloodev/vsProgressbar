@@ -4,11 +4,11 @@ game 'gta5'
 ui_page 'index.html'
 
 client_script {
-	"client.lua"
+	"vs-client.lua"
 }
 
 server_script {
-	"server.lua"
+	"vs-server.lua"
 }
 
 files {
