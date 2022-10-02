@@ -1,4 +1,4 @@
-# vsProgressbar!
+# vsProgressbar
 
 > Script de progressbar abaixo da tela. 
 
@@ -6,7 +6,7 @@
 
 > Developed by: Vieira's Store
 
-# Preview!
+# Preview
 
 > Version: Stable 🟢
 
