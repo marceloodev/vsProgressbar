@@ -1,6 +1,4 @@
---AGRADECIMENTO/AVISOS
-local VSDevelopment = "Obrigado por baixar nosso script!"
-
-if VSDevelopment == "Obrigado por baixar nosso script!" then
-	print("^2[vsProgressbar] Obrigado por utilizar nosso script! Futuros updates em -> https://discord.gg/gJyMqQb8Nh!^0")
-end
+------------------------------------------------------------------------------
+-- vsProgressbar | By: Vieira's Store
+------------------------------------------------------------------------------
+print("^2[vsProgressbar] Obrigado por utilizar nosso script! Futuros updates em -> https://github.com/VieirasStore/vsProgressbar!^0")
